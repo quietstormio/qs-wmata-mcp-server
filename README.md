@@ -8,6 +8,7 @@ Do not share your WMATA API key
 
 Then configure your LLM, I'm using Claude Desktop:
 
+```
 "qs-wmata-mcp-server":{
    "command":"/path/to/uv",
    "args":[
@@ -17,3 +18,4 @@ Then configure your LLM, I'm using Claude Desktop:
       "wmata.py"
    ]
 }
+```
